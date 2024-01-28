@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/inter/Inter-SemiBold.eot');
+    src: url('../fonts/inter/Inter-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/inter/Inter-SemiBold.woff2') format('woff2'),
+        url('../fonts/inter/Inter-SemiBold.woff') format('woff'),
+        url('../fonts/inter/Inter-SemiBold.svg#Inter-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
